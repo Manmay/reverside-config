@@ -6,6 +6,6 @@
         jaxb:version="2.1"
         elementFormDefault="qualified">
 
-    <include schemaLocation="process-registration.xsd"/>
+    <include schemaLocation="registration.xsd"/>
 
 </schema>
